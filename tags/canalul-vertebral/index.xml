@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canalul vertebral on Sistemul Nervos</title>
+    <link>localhost:1313/tags/canalul-vertebral/</link>
+    <description>Recent content in Canalul vertebral on Sistemul Nervos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Dragos Grumazescu</copyright>
+    
+	<atom:link href="localhost:1313/tags/canalul-vertebral/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maduva Spinării</title>
+      <link>localhost:1313/maduvaspinarii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/maduvaspinarii/</guid>
+      <description>Maduva spinarii este situata in canalul vertebral, rezultat prin suprapunerea gaurilor vertebrale si este legata de periferie prin intermediul nervilor spinali cu cele doua radacini -radacina anterioara, care transmite exclusiv impulsuri motorii si radacina posterioara care transmite impulsuri exclusiv senzitive. Controlul impulsurilor transmise prin radacina anterioara se face de catre motoneuronii spinali din coarnele anterioare, care la randul lor se afla sub controlul etajelor superioare ale nevraxului.
+Se vorbeste de un control direct exercitat de centrii nervosi superiori asupra motoneuronilor alfa si de un control indirect exercitat asupra motoneuronilor gama, cei din urma cu rol in contractia fibrelor intrafusale dar conducand in final, datorita buclei gama, la excitatia motoneuronilor alfa.</description>
+    </item>
+    
+  </channel>
+</rss>

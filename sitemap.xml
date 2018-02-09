@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>localhost:1313/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/</loc>
+    <lastmod>2018-02-08T15:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/typography/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/despre/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/maduvaspinarii/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/neuronul/</loc>
+    <lastmod>2018-02-08T15:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/homepage-sections/</loc>
+    <lastmod>2018-01-11T17:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/shortcodes/</loc>
+    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/cover-image/</loc>
+    <lastmod>2017-09-30T14:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/translation/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/syntax-highlighting/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/menus/</loc>
+    <lastmod>2017-10-05T16:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/nervul/</loc>
+    <lastmod>2017-09-27T10:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/opengraph/</loc>
+    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/authors/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/example-config-toml/</loc>
+    <lastmod>2017-10-05T15:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/updating/</loc>
+    <lastmod>2017-09-25T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/documentatie/installation/</loc>
+    <lastmod>2017-09-25T02:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/authors/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/canalul-vertebral/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/chroma/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/config/</loc>
+    <lastmod>2018-01-11T17:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/authors/dragosgrumazescu/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/categories/features/</loc>
+    <lastmod>2018-02-08T15:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/i18n/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/maduva-spinarii/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/menus/</loc>
+    <lastmod>2017-10-05T16:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/og/</loc>
+    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/categories/others/</loc>
+    <lastmod>2017-10-05T15:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/page/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/pygments/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/shortcode/</loc>
+    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/translation/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/categories/tutorial/</loc>
+    <lastmod>2017-09-25T06:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

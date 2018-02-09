@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Configuration on Sistemul Nervos</title>
+    <link>localhost:1313/tags/config/</link>
+    <description>Recent content in Configuration on Sistemul Nervos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Dragos Grumazescu</copyright>
+    <lastBuildDate>Thu, 11 Jan 2018 17:30:00 +0600</lastBuildDate>
+    
+	<atom:link href="localhost:1313/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Homepage Sections</title>
+      <link>localhost:1313/documentatie/homepage-sections/</link>
+      <pubDate>Thu, 11 Jan 2018 17:30:00 +0600</pubDate>
+      
+      <guid>localhost:1313/documentatie/homepage-sections/</guid>
+      <description>The following configuration option allows you to add additional sections to Minimo&amp;rsquo;s homepage:
+[params.settings] ... homepageSections = [&amp;#34;recent_posts&amp;#34;]  homepageSections [Array of Strings]: template names in the /layouts/partials/home directory  Minimo comes with Recent Posts homepage section by default. You can also create your own homepage sections. Here&amp;rsquo;s an example:
+Tags List Homepage Section Let&amp;rsquo;s say you want to show Tags in your homepage.
+ First you will have to create a partial template file in the /layouts/partials/home/ directory.</description>
+    </item>
+    
+    <item>
+      <title>Example config.toml</title>
+      <link>localhost:1313/documentatie/example-config-toml/</link>
+      <pubDate>Mon, 25 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>localhost:1313/documentatie/example-config-toml/</guid>
+      <description>Example config.toml configuration for Minimo:
+baseURL = &amp;#34;localhost:1313/&amp;#34; title = &amp;#34;Sistemul Nervos&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;Dragos Grumazescu&amp;#34; theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;ro&amp;#34; relativeurls = true [params.</description>
+    </item>
+    
+  </channel>
+</rss>

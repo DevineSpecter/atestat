@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sistemul Nervos</title>
+    <link>localhost:1313/tags/</link>
+    <description>Recent content in Tags on Sistemul Nervos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Dragos Grumazescu</copyright>
+    <lastBuildDate>Tue, 26 Sep 2017 06:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Authors</title>
+      <link>localhost:1313/tags/authors/</link>
+      <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
+      
+      <guid>localhost:1313/tags/authors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canalul vertebral</title>
+      <link>localhost:1313/tags/canalul-vertebral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/tags/canalul-vertebral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chroma</title>
+      <link>localhost:1313/tags/chroma/</link>
+      <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
+      
+      <guid>localhost:1313/tags/chroma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>localhost:1313/tags/config/</link>
+      <pubDate>Thu, 11 Jan 2018 17:30:00 +0600</pubDate>
+      
+      <guid>localhost:1313/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I18n</title>
+      <link>localhost:1313/tags/i18n/</link>
+      <pubDate>Wed, 27 Sep 2017 14:00:00 +0600</pubDate>
+      
+      <guid>localhost:1313/tags/i18n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maduva spinarii</title>
+      <link>localhost:1313/tags/maduva-spinarii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/tags/maduva-spinarii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Menus</title>
+      <link>localhost:1313/tags/menus/</link>
+      <pubDate>Wed, 27 Sep 2017 10:00:00 +0600</pubDate>
+      
+      <guid>localhost:1313/tags/menus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opengraph</title>
+      <link>localhost:1313/tags/og/</link>
+      <pubDate>Tue, 26 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>localhost:1313/tags/og/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pygments</title>
+      <link>localhost:1313/tags/pygments/</link>
+      <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
+      
+      <guid>localhost:1313/tags/pygments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcode</title>
+      <link>localhost:1313/tags/shortcode/</link>
+      <pubDate>Thu, 05 Oct 2017 20:00:00 +0600</pubDate>
+      
+      <guid>localhost:1313/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translation</title>
+      <link>localhost:1313/tags/translation/</link>
+      <pubDate>Wed, 27 Sep 2017 14:00:00 +0600</pubDate>
+      
+      <guid>localhost:1313/tags/translation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
